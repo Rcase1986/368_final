@@ -1,3 +1,10 @@
-@charset "UTF-8";
-/* CSS Document */
+Content
 
+Objectives
+*To show my art
+*
+
+
+
+refs
+*[codepen](http://codepen.io)
