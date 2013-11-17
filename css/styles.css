@@ -1,0 +1,74 @@
+/* Stylesheet */
+
+body{
+	background-image:url( "../img/BG3.png" );
+	background-size:contain;
+	background-color:black;
+}
+.stuff{
+  color:white;
+
+  width:960px;
+}
+
+a{
+  color:white;
+  font-weight:bolder;
+  text-decoration:none;
+}
+
+a:hover{
+  text-shadow:0 0 10px white;
+  
+}
+
+ul{
+  clear:both;
+  list-style:none;
+}
+
+li{
+  float:left;
+  clear:right;
+  margin:20px;
+}
+
+h1{
+  clear:left;
+  margin:20px
+}
+
+h1,h2{
+  text-align:center;
+  text-shadow:0 0 10px white;
+}
+
+section{
+  clear:both;
+  margin:20px
+}
+
+section img{
+  margin:0 10px;
+  border:10px solid white;
+  border-radius:5px;
+}
+
+section div{
+  float:left;
+}
+div{
+	position:relative;
+}
+
+img + p{
+  
+  background:black;
+  position:absolute;
+  bottom:0px;
+  right:20px;
+}
+
+footer{
+	clear:left;
+}
